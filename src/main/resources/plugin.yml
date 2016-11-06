@@ -1,0 +1,4 @@
+name: OculateKarma
+main: us.oculate.karma.KarmaPlugin
+author: dankrigby
+version: 1.0
